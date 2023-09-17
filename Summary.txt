@@ -43,4 +43,4 @@
 
 *Now, once we're done with the cleaning of data. I used Logistic Regression model to the dataset with a split of 75% as training data and 25% as testing data.
 
-*This model gave me an accuracy of 78.02%
+*This model gave me an accuracy of 80.2%
